@@ -1,0 +1,11 @@
+.heading {
+    font-family: "Tahoma", sans-serif;
+    text-align: center;
+    background-color: rgb(200,100,200);
+    color: rgb(224, 233, 224);
+}
+
+.heading.home {
+    height: 200px;
+    background-color: rgb(11, 111, 224);
+}
