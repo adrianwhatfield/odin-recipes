@@ -22,3 +22,8 @@
     font-family: "Tahoma", sans-serif;
     background-color: rgb(224, 217, 217);
 }
+
+.image {
+    width: 400px;
+    height: auto;
+}
